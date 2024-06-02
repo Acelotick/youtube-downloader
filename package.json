@@ -1,0 +1,27 @@
+{
+  "name": "youtube-downloader",
+  "version": "0.0.1",
+  "description": "Просто утилита для скачивания видео с ютуба",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acelotick/youtube-downloader.git"
+  },
+  "keywords": [
+    "youtube",
+    "downloader",
+    "utility"
+  ],
+  "author": "Vitaliy",
+  "license": "MIT",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  },
+  "bugs": {
+    "url": "https://github.com/acelotick/youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/acelotick/youtube-downloader#readme"
+}
