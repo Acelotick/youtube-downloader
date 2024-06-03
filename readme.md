@@ -5,12 +5,15 @@
 - node main [ссылка] [имя файла] [параметр]
 
 # Параметры
-- lowest (Низкое, только видео)
-- highest (Высокое, только видео)
-- lowestaudio (Низкое, только звук)
-- highestaudio (Высокое, только звук)
-- lowestvideo (Низкое, видео и звук)
-- highestvideo (Высокое, видео и звук)
+- - Низкое качество
+- lowest (Звук и видео)
+- lowestaudio (Звук)
+- lowestvideo (Видео)
+
+- - Высокое качество
+- highest (Видео и Звук)
+- highestaudio (Звук)
+- highestvideo (Видео)
 
 # Примерный способ загрузки видео с ютуба
 - node main https://www.youtube.com/watch?v=dQw4w9WgXcQ rickroll highestvideo
