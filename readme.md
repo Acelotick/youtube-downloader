@@ -15,6 +15,9 @@
 - highestaudio (Звук)
 - highestvideo (Видео)
 
+# Замечания
+- Большая часть или многие видео в высоком качестве качаются без звуковой дорожки
+
 # Примерный способ загрузки видео с ютуба
 - node main https://www.youtube.com/watch?v=dQw4w9WgXcQ rickroll highestvideo
 
